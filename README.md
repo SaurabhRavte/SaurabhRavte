@@ -1,6 +1,6 @@
 ###
 
-<h2 align="center">Nyahello!!👋, My name is Saurabh and I'm a Software Developer.</h2>
+<h2 align="center">Hello!!👋, My name is Saurabh and I'm a Software Developer.</h2>
 
 ###
 
